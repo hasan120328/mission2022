@@ -1,0 +1,75 @@
+.half-width{
+    
+    width: 50%;
+    
+    
+}
+.half-width img{
+    width: 50%;
+}
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: aqua;
+}
+.top-banner{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.button1{
+    border: solid 1px rgb(194, 187, 201);
+    border-radius: 10px;
+   width: 120px;
+   height: 30px;
+    background-color:#FF5959
+}
+.down1{
+    font-size: xx-small;
+}
+.border-margin{
+    padding: 3px;
+    border-left:solid 1px #FF5959;
+}
+.border1 img{
+    width: 141px;
+    height: 141px;
+}
+.border1{
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    ;
+    
+    width: 25%;
+    height: 341px;
+    padding: 15px;
+    margin-right:20px;
+    
+}
+.image-coding img{
+    width: 400px;
+    height: 400px;
+    z-index: 1;
+}
+
+.shape11 img{
+    width: 100px;
+    height: 100px;
+    position: relative; 
+    top: -180px;
+    left: -450px;
+    z-index: 1; 
+    
+}
+.section3{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.button2{
+    border: solid 1px rgb(194, 187, 201);
+    border-radius: 10px;
+   width: 220px;
+   height: 40px;
+    background-color:#FF5959
+}
